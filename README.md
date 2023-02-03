@@ -1,7 +1,7 @@
 ### Hi👋, I'm Heba Hamdi
 
 # 💫 About Me:
-🤩 I'm a passionate React JS frontend developer.<br>🔎 I'm looking for an internship/job.<br>📂 I'm currently working on expanding my expertise in web development.<br>🧠I'm currently learning Next JS and React Native.<br>🤓Fact- I never stop learning.
+🤩 I'm a passionate React JS frontend developer.<br>🔎 I'm looking for an internship/job.<br>📂 I'm currently working on expanding my expertise in web development.<br>🧠I'm currently learning Next JS and React Native.<br>🤓Fact- I never stop learning.<br>
 
 
 ## 🌐 Socials:
@@ -16,9 +16,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=heba-hamdi&icon=0&color=0)](https://visitcount.itsvg.in)
